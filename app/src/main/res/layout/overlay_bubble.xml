@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/blackout_bubble_root"
+    android:layout_width="56dp"
+    android:layout_height="56dp"
+    android:background="@drawable/bubble_background"
+    android:clickable="true"
+    android:focusable="true"
+    android:padding="12dp">
+
+    <ImageView
+        android:id="@+id/blackout_bubble_icon"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/blackout_button"
+        android:scaleType="centerInside"
+        android:src="@mipmap/ic_launcher" />
+</FrameLayout>

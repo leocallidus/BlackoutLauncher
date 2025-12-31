@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Blackout Launcher</string>
+    <string name="permission_overlay_title">Draw over other apps</string>
+    <string name="permission_write_settings_title">Modify system settings</string>
+    <string name="permission_granted">Granted</string>
+    <string name="permission_required">Required</string>
+    <string name="permission_grant">Grant</string>
+    <string name="select_app_title">Select an app to launch in blackout mode</string>
+    <string name="start_button">Start</string>
+    <string name="search_label">Search apps</string>
+    <string name="search_empty">No apps found.</string>
+    <string name="selected_app_title">Selected app</string>
+    <string name="select_app_button">Choose app</string>
+    <string name="no_app_selected">No app selected</string>
+    <string name="permission_vibration_title">Vibration feedback</string>
+    <string name="vibration_status_on">Enabled</string>
+    <string name="vibration_status_off">Disabled</string>
+    <string name="vibration_status_unavailable">Not supported</string>
+    <string name="vibration_open_settings">Open settings</string>
+    <string name="exit_tap_count_title">Taps to exit blackout</string>
+    <string name="exit_tap_count_value">Current: %1$d</string>
+    <string name="about_title">Help</string>
+    <string name="about_description">Full-screen blackout overlay for privacy and battery saving.</string>
+    <string name="version_label">Version: %1$s</string>
+    <string name="developer_label">Developer: %1$s</string>
+    <string name="developer_name">leocallidus</string>
+    <string name="toast_select_app">Select an app to start.</string>
+    <string name="toast_grant_permissions">Grant required permissions first.</string>
+    <string name="toast_launch_failed">Unable to launch the selected app.</string>
+    <string name="notification_title">Blackout ready</string>
+    <string name="notification_text">Tap the floating button to start blackout. Tap %1$d times to exit. Long-press the button to stop.</string>
+    <string name="notification_channel_name">Blackout Service</string>
+    <string name="notification_channel_description">Keeps blackout overlay running</string>
+    <string name="blackout_button">Blackout button</string>
+</resources>

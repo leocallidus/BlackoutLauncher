@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Лаунчер Blackout</string>
+    <string name="permission_overlay_title">Поверх других приложений</string>
+    <string name="permission_write_settings_title">Изменение системных настроек</string>
+    <string name="permission_granted">Разрешено</string>
+    <string name="permission_required">Требуется</string>
+    <string name="permission_grant">Разрешить</string>
+    <string name="select_app_title">Выберите приложение для запуска в режиме затемнения</string>
+    <string name="start_button">Запустить</string>
+    <string name="search_label">Поиск приложений</string>
+    <string name="search_empty">Приложения не найдены.</string>
+    <string name="selected_app_title">Выбранное приложение</string>
+    <string name="select_app_button">Выбрать</string>
+    <string name="no_app_selected">Приложение не выбрано</string>
+    <string name="permission_vibration_title">Виброотклик</string>
+    <string name="vibration_status_on">Включен</string>
+    <string name="vibration_status_off">Выключен</string>
+    <string name="vibration_status_unavailable">Не поддерживается</string>
+    <string name="vibration_open_settings">Открыть настройки</string>
+    <string name="exit_tap_count_title">Нажатий для выхода</string>
+    <string name="exit_tap_count_value">Текущее: %1$d</string>
+    <string name="about_title">Справка</string>
+    <string name="about_description">Полноэкранный чёрный оверлей для приватности и экономии батареи.</string>
+    <string name="version_label">Версия: %1$s</string>
+    <string name="developer_label">Разработчик: %1$s</string>
+    <string name="developer_name">leocallidus</string>
+    <string name="toast_select_app">Выберите приложение для запуска.</string>
+    <string name="toast_grant_permissions">Сначала выдайте необходимые разрешения.</string>
+    <string name="toast_launch_failed">Не удалось запустить выбранное приложение.</string>
+    <string name="notification_title">Режим затемнения готов</string>
+    <string name="notification_text">Нажмите на плавающую кнопку, чтобы начать затемнение. Нажмите %1$d раз, чтобы выйти. Долгое нажатие на кнопку — остановка.</string>
+    <string name="notification_channel_name">Сервис затемнения</string>
+    <string name="notification_channel_description">Поддерживает работу затемняющего экрана</string>
+    <string name="blackout_button">Кнопка затемнения</string>
+</resources>
