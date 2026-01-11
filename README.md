@@ -66,4 +66,4 @@ Open the project in Android Studio and run the `app` module on a device or emula
 
 ## License
 
-Specify your license here.
+MIT License
